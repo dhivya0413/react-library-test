@@ -131,6 +131,8 @@ android {
         applicationId "com.example.reactnativesecurekeymodule"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
+        ndkVersion "21.4.7075529"
+
         versionCode 1
         versionName "1.0"
     }
